@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/GranjaModel/src" modelPluginID="GranjaModel" modelName="ModelGranja"
+    rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container" importerID="org.eclipse.emf.importer.ecore"
+    complianceLevel="8.0" copyrightFields="false" operationReflection="true" importOrganizing="true">
+  <foreignModel>ModelGranja.ecore</foreignModel>
+  <genPackages prefix="Granja" disposableProviderFactory="true" ecorePackage="ModelGranja.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ModelGranja.ecore#//Datos">
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//Datos/FOTOS"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//Datos/VOLTIOS"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//Datos/GRADOS"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ModelGranja.ecore#//Tipo">
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//Tipo/DELAVAL"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//Tipo/SIEMENS"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//Tipo/TABLET"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//Tipo/MOVIL"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//Tipo/ORDENADOR"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ModelGranja.ecore#//TiposDispositivo">
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/CAMARA"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/TEMPERATURA"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/FUEGO_HUMO"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/CO2"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/GAS"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/PRESENCIA"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/MAGNETICO"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/ROTURA_CRISTAL"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/BARRERA_SEGURIDAD"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/LUMINOSIDAD"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/EMERGENCIA"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/INUNDACION"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/VIENTO"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/LLUVIA"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/ESTACION_METEOROLOGICA"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/SISTEMA_IDENTIFICACION"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/INFRARROJOS"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/RADIOFRECUENCIA"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/MECEDORA"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/PULSOMETRO_GANADO"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/DEPOSITO_LECHE"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/ROBOT_LIMPIADOR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/NEVERAS"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/LUZ"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//TiposDispositivo/TERMOSTATO"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ModelGranja.ecore#//NombreAccion">
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/ABRIR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/ENVIAR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/SACAR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/CERRAR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/ESTADO"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/GRABAR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/DETECTAR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/ENCENDER"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/APAGAR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/AUMENTAR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/DISMINUIR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/COMPROBAR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/ACTIVAR"/>
+      <genEnumLiterals ecoreEnumLiteral="ModelGranja.ecore#//NombreAccion/DESACTIVAR"/>
+    </genEnums>
+    <genClasses ecoreClass="ModelGranja.ecore#//Granja">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//Granja/nombreGranja"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//Granja/tipo"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ModelGranja.ecore#//Granja/login"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ModelGranja.ecore#//Granja/dispositivos"/>
+    </genClasses>
+    <genClasses ecoreClass="ModelGranja.ecore#//login">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//login/usuario"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//login/contrasena"/>
+    </genClasses>
+    <genClasses ecoreClass="ModelGranja.ecore#//Dispositivos">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//Dispositivos/codigo"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//Dispositivos/nombre"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//Dispositivos/temperatura"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ModelGranja.ecore#//Dispositivos/accion"/>
+    </genClasses>
+    <genClasses ecoreClass="ModelGranja.ecore#//accion">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//accion/nombreAccion"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ModelGranja.ecore#//accion/numero"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//accion/descripcion"/>
+    </genClasses>
+    <genClasses ecoreClass="ModelGranja.ecore#//numero">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//numero/idNumero"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ModelGranja.ecore#//numero/datos"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>
