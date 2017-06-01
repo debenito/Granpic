@@ -84,7 +84,8 @@
   <dispositivos/>
   <dispositivos/>
   <dispositivos>
-    <accion nombreAccion="SACAR"/>
+    <accion nombreAccion="SACAR">
+      <numero idNumero="34"/>
+    </accion>
   </dispositivos>
-  <tipos_numeros idNumero="20"/>
 </granja:Granja>

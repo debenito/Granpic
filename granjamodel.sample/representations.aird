@@ -6069,17 +6069,6 @@
           <styles xmi:type="notation:ShapeStyle" xmi:id="_X5Ml80WHEee0GuZsNgwmbw" fontColor="11042733" fontName="Segoe UI" fontHeight="20" italic="true"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X5Ml9EWHEee0GuZsNgwmbw" x="775" y="-4" width="139" height="113"/>
         </children>
-        <children xmi:type="notation:Node" xmi:id="_dUy14EXdEeeqW-nDYjWZ-Q" type="2001" element="_dUod0EXdEeeqW-nDYjWZ-Q">
-          <children xmi:type="notation:Node" xmi:id="_dUy140XdEeeqW-nDYjWZ-Q" type="5002">
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_dUy15EXdEeeqW-nDYjWZ-Q" y="5"/>
-          </children>
-          <children xmi:type="notation:Node" xmi:id="_dUzc8EXdEeeqW-nDYjWZ-Q" type="3014" element="_dUod0UXdEeeqW-nDYjWZ-Q">
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_dUzc8UXdEeeqW-nDYjWZ-Q" fontName="Segoe UI"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dUzc8kXdEeeqW-nDYjWZ-Q"/>
-          </children>
-          <styles xmi:type="notation:ShapeStyle" xmi:id="_dUy14UXdEeeqW-nDYjWZ-Q" fontName="Segoe UI" fontHeight="8" bold="true"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dUy14kXdEeeqW-nDYjWZ-Q" x="100" y="280" width="141" height="121"/>
-        </children>
         <children xmi:type="notation:Node" xmi:id="__fnrAEXeEeeqW-nDYjWZ-Q" type="2001" element="__ffIIEXeEeeqW-nDYjWZ-Q">
           <children xmi:type="notation:Node" xmi:id="__fnrA0XeEeeqW-nDYjWZ-Q" type="5002">
             <layoutConstraint xmi:type="notation:Location" xmi:id="__fnrBEXeEeeqW-nDYjWZ-Q" y="-21"/>
@@ -6370,9 +6359,9 @@
           <children xmi:type="notation:Node" xmi:id="_w_xYcEXtEee9UJh1X5sVwA" type="5002">
             <layoutConstraint xmi:type="notation:Location" xmi:id="_w_xYcUXtEee9UJh1X5sVwA" y="5"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_xACeMEXtEee9UJh1X5sVwA" type="3014" element="_w-g0MEXtEee9UJh1X5sVwA">
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_xACeMUXtEee9UJh1X5sVwA" fontName="Segoe UI"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xACeMkXtEee9UJh1X5sVwA"/>
+          <children xmi:type="notation:Node" xmi:id="_m1OMwEatEeeulbeUPkAZow" type="3003" element="_m0raMEatEeeulbeUPkAZow">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_m1OMwUatEeeulbeUPkAZow" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m1OMwkatEeeulbeUPkAZow"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_w_hg0UXtEee9UJh1X5sVwA" fontName="Segoe UI" fontHeight="8" bold="true"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w_hg0kXtEee9UJh1X5sVwA" x="20" y="-270" width="100" height="100"/>
@@ -6381,9 +6370,9 @@
           <children xmi:type="notation:Node" xmi:id="_w_8-oEXtEee9UJh1X5sVwA" type="5002">
             <layoutConstraint xmi:type="notation:Location" xmi:id="_w_8-oUXtEee9UJh1X5sVwA" y="5"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_xADFQEXtEee9UJh1X5sVwA" type="3014" element="_w-jQcEXtEee9UJh1X5sVwA">
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_xADFQUXtEee9UJh1X5sVwA" fontName="Segoe UI"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xADFQkXtEee9UJh1X5sVwA"/>
+          <children xmi:type="notation:Node" xmi:id="_m1Pa4EatEeeulbeUPkAZow" type="3003" element="_m0tPYEatEeeulbeUPkAZow">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_m1Pa4UatEeeulbeUPkAZow" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m1Pa4katEeeulbeUPkAZow"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_w_7wgUXtEee9UJh1X5sVwA" fontName="Segoe UI" fontHeight="8" bold="true"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w_7wgkXtEee9UJh1X5sVwA" x="220" y="-270" width="100" height="100"/>
@@ -6392,12 +6381,23 @@
           <children xmi:type="notation:Node" xmi:id="_w_-MwEXtEee9UJh1X5sVwA" type="5002">
             <layoutConstraint xmi:type="notation:Location" xmi:id="_w_-MwUXtEee9UJh1X5sVwA" y="5"/>
           </children>
-          <children xmi:type="notation:Node" xmi:id="_xAETYEXtEee9UJh1X5sVwA" type="3014" element="_w-j3gUXtEee9UJh1X5sVwA">
-            <styles xmi:type="notation:ShapeStyle" xmi:id="_xAETYUXtEee9UJh1X5sVwA" fontName="Segoe UI"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xAETYkXtEee9UJh1X5sVwA"/>
+          <children xmi:type="notation:Node" xmi:id="_m1QB8EatEeeulbeUPkAZow" type="3003" element="_m0t2cEatEeeulbeUPkAZow">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_m1QB8UatEeeulbeUPkAZow" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m1QB8katEeeulbeUPkAZow"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_w_9lsUXtEee9UJh1X5sVwA" fontName="Segoe UI" fontHeight="8" bold="true"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w_9lskXtEee9UJh1X5sVwA" x="250" y="-135" width="100" height="100"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_RLcdYEasEeeulbeUPkAZow" type="2001" element="_RLOa8EasEeeulbeUPkAZow">
+          <children xmi:type="notation:Node" xmi:id="_RLdrgEasEeeulbeUPkAZow" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_RLdrgUasEeeulbeUPkAZow" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_m1RQEEatEeeulbeUPkAZow" type="3003" element="_m0udgEatEeeulbeUPkAZow">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_m1RQEUatEeeulbeUPkAZow" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m1RQEkatEeeulbeUPkAZow"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_RLcdYUasEeeulbeUPkAZow" fontName="Segoe UI" fontHeight="8" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RLcdYkasEeeulbeUPkAZow" x="81" y="222" width="100" height="100"/>
         </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_X465IkWHEee0GuZsNgwmbw"/>
         <edges xmi:type="notation:Edge" xmi:id="_NLwHAEXjEeeA9vwP7SgnYg" type="4001" element="_NKh_AEXjEeeA9vwP7SgnYg" source="_X48HQEWHEee0GuZsNgwmbw" target="_IVKLgEXjEeeA9vwP7SgnYg">
@@ -6848,6 +6848,22 @@
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0j_tIEXtEee9UJh1X5sVwA" id="(0.5,0.5)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0j_tIUXtEee9UJh1X5sVwA" id="(0.5,0.5)"/>
         </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_zG8dEEatEeeulbeUPkAZow" type="4001" element="_zGXOQEatEeeulbeUPkAZow" source="__fnrAEXeEeeqW-nDYjWZ-Q" target="_RLcdYEasEeeulbeUPkAZow">
+          <children xmi:type="notation:Node" xmi:id="_zG-5UEatEeeulbeUPkAZow" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zG-5UUatEeeulbeUPkAZow" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zHAHcEatEeeulbeUPkAZow" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zHAHcUatEeeulbeUPkAZow" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zHAugEatEeeulbeUPkAZow" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zHAugUatEeeulbeUPkAZow" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_zG8dEUatEeeulbeUPkAZow"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_zG8dEkatEeeulbeUPkAZow" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zG8dE0atEeeulbeUPkAZow" points="[0, 0, 199, 100]$[-199, -100, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zHBVkEatEeeulbeUPkAZow" id="(0.0,0.7263157894736842)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zHBVkUatEeeulbeUPkAZow" id="(1.0,0.53)"/>
+        </edges>
       </data>
     </ownedAnnotationEntries>
     <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_X45rBEWHEee0GuZsNgwmbw" name="Benito" width="-1" height="-1" resizeKind="NSEW">
@@ -7123,39 +7139,39 @@
     <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_w-atkEXtEee9UJh1X5sVwA" name="10" incomingEdges="_0iuh0EXtEee9UJh1X5sVwA" width="10" height="10" resizeKind="NSEW">
       <target xmi:type="granja:numero" href="modeloGranja.granja#//@dispositivos.0/@accion/@numero"/>
       <semanticElements xmi:type="granja:numero" href="modeloGranja.granja#//@dispositivos.0/@accion/@numero"/>
-      <ownedStyle xmi:type="diagram:CustomStyle" xmi:id="_w-g0MEXtEee9UJh1X5sVwA" labelPosition="node" id="numero">
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_m0raMEatEeeulbeUPkAZow" labelSize="10" borderColor="136,136,136" labelPosition="node" color="138,226,52">
         <labelFormat>bold</labelFormat>
-        <description xmi:type="style:CustomStyleDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']/@style"/>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']"/>
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_w-ipYEXtEee9UJh1X5sVwA" name="10" incomingEdges="_0iwXAEXtEee9UJh1X5sVwA" width="10" height="10" resizeKind="NSEW">
       <target xmi:type="granja:numero" href="modeloGranja.granja#//@dispositivos.22/@accion/@numero"/>
       <semanticElements xmi:type="granja:numero" href="modeloGranja.granja#//@dispositivos.22/@accion/@numero"/>
-      <ownedStyle xmi:type="diagram:CustomStyle" xmi:id="_w-jQcEXtEee9UJh1X5sVwA" labelPosition="node" id="numero">
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_m0tPYEatEeeulbeUPkAZow" labelSize="10" borderColor="136,136,136" labelPosition="node" color="138,226,52">
         <labelFormat>bold</labelFormat>
-        <description xmi:type="style:CustomStyleDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']/@style"/>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']"/>
     </ownedDiagramElements>
     <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_w-j3gEXtEee9UJh1X5sVwA" name="23,5" incomingEdges="_0iw-EkXtEee9UJh1X5sVwA" width="10" height="10" resizeKind="NSEW">
       <target xmi:type="granja:numero" href="modeloGranja.granja#//@dispositivos.23/@accion/@numero"/>
       <semanticElements xmi:type="granja:numero" href="modeloGranja.granja#//@dispositivos.23/@accion/@numero"/>
-      <ownedStyle xmi:type="diagram:CustomStyle" xmi:id="_w-j3gUXtEee9UJh1X5sVwA" labelPosition="node" id="numero">
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_m0t2cEatEeeulbeUPkAZow" labelSize="10" borderColor="136,136,136" labelPosition="node" color="138,226,52">
         <labelFormat>bold</labelFormat>
-        <description xmi:type="style:CustomStyleDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']/@style"/>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_dUod0EXdEeeqW-nDYjWZ-Q" name="20" tooltipText="" width="10" height="10" resizeKind="NSEW">
-      <target xmi:type="granja:numero" href="modeloGranja.granja#//@tipos_numeros.0"/>
-      <semanticElements xmi:type="granja:numero" href="modeloGranja.granja#//@tipos_numeros.0"/>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_RLOa8EasEeeulbeUPkAZow" name="34" incomingEdges="_zGXOQEatEeeulbeUPkAZow" width="10" height="10" resizeKind="NSEW">
+      <target xmi:type="granja:numero" href="modeloGranja.granja#//@dispositivos.28/@accion/@numero"/>
+      <semanticElements xmi:type="granja:numero" href="modeloGranja.granja#//@dispositivos.28/@accion/@numero"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
       <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
       <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
-      <ownedStyle xmi:type="diagram:CustomStyle" xmi:id="_dUod0UXdEeeqW-nDYjWZ-Q" labelPosition="node" id="numero">
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_m0udgEatEeeulbeUPkAZow" labelSize="10" borderColor="136,136,136" labelPosition="node" color="138,226,52">
         <labelFormat>bold</labelFormat>
-        <description xmi:type="style:CustomStyleDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']/@style"/>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Numero']"/>
     </ownedDiagramElements>
@@ -7375,7 +7391,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@nodeMappings[name='Accion']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="__ffIIEXeEeeqW-nDYjWZ-Q" name="SACAR" incomingEdges="_rFy44EXjEeeA9vwP7SgnYg" width="-1" height="-1" resizeKind="NSEW">
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="__ffIIEXeEeeqW-nDYjWZ-Q" name="SACAR" tooltipText="" outgoingEdges="_zGXOQEatEeeulbeUPkAZow" incomingEdges="_rFy44EXjEeeA9vwP7SgnYg" width="-1" height="-1" resizeKind="NSEW">
       <target xmi:type="granja:accion" href="modeloGranja.granja#//@dispositivos.28/@accion"/>
       <semanticElements xmi:type="granja:accion" href="modeloGranja.granja#//@dispositivos.28/@accion"/>
       <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
@@ -7608,6 +7624,14 @@
       <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_0ixlIEXtEee9UJh1X5sVwA" sourceArrow="OutputFillClosedArrow" size="2">
         <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@edgeMappings[name='RACTION_NUMERO']/@style"/>
         <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_0ixlIUXtEee9UJh1X5sVwA"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@edgeMappings[name='RACTION_NUMERO']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_zGXOQEatEeeulbeUPkAZow" sourceNode="__ffIIEXeEeeqW-nDYjWZ-Q" targetNode="_RLOa8EasEeeulbeUPkAZow">
+      <target xmi:type="granja:accion" href="modeloGranja.granja#//@dispositivos.28/@accion"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_zGX1UEatEeeulbeUPkAZow" sourceArrow="OutputFillClosedArrow" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@edgeMappings[name='RACTION_NUMERO']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_zGX1UUatEeeulbeUPkAZow"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/granja.design/description/granja.odesign#//@ownedViewpoints[name='granja']/@ownedRepresentations[name='Diagrama%20Granja']/@defaultLayer/@edgeMappings[name='RACTION_NUMERO']"/>
     </ownedDiagramElements>
