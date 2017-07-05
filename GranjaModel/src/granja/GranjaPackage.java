@@ -1,5 +1,7 @@
 /**
- */
+ * @author Jose Antonio de Benito Suarez
+ * Clase encargada de la instanciacion de ciertos aspectos correspondientes a sirius
+ *  */
 package granja;
 
 import org.eclipse.emf.ecore.EAttribute;

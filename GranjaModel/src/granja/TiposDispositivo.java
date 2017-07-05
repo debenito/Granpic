@@ -1,5 +1,8 @@
 /**
- */
+ * @author Jose Antonio de Benito Suarez
+ * Clase enumerador de los tipos de centralita que se pueden implementar en una granja
+ *  */
+
 package granja;
 
 import java.util.Arrays;

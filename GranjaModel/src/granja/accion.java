@@ -1,4 +1,6 @@
 /**
+ * @author Jose Antonio de Benito Suarez
+ * Interface encargada de los metodos que puede realizar una accion
  */
 package granja;
 
@@ -30,6 +32,7 @@ public interface accion extends EObject {
 	 * <p>
 	 * If the meaning of the '<em>Nombre Accion</em>' attribute isn't clear,
 	 * there really should be more of a description here...
+	 * Define el nombre de la accion y es devuelto
 	 * </p>
 	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Nombre Accion</em>' attribute.
@@ -44,6 +47,7 @@ public interface accion extends EObject {
 	/**
 	 * Sets the value of the '{@link granja.accion#getNombreAccion <em>Nombre Accion</em>}' attribute.
 	 * <!-- begin-user-doc -->
+	 * modifica el nombre de la accion
 	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Nombre Accion</em>' attribute.
 	 * @see granja.NombreAccion
@@ -58,6 +62,7 @@ public interface accion extends EObject {
 	 * <p>
 	 * If the meaning of the '<em>Numero</em>' containment reference isn't clear,
 	 * there really should be more of a description here...
+	 * devuelve el numero 
 	 * </p>
 	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Numero</em>' containment reference.
@@ -71,6 +76,7 @@ public interface accion extends EObject {
 	/**
 	 * Sets the value of the '{@link granja.accion#getNumero <em>Numero</em>}' containment reference.
 	 * <!-- begin-user-doc -->
+	 * Modifica el numero 
 	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Numero</em>' containment reference.
 	 * @see #getNumero()
@@ -84,6 +90,7 @@ public interface accion extends EObject {
 	 * <p>
 	 * If the meaning of the '<em>Descripcion</em>' attribute isn't clear,
 	 * there really should be more of a description here...
+	 * Devuelve la descripcion
 	 * </p>
 	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Descripcion</em>' attribute.
@@ -97,6 +104,7 @@ public interface accion extends EObject {
 	/**
 	 * Sets the value of the '{@link granja.accion#getDescripcion <em>Descripcion</em>}' attribute.
 	 * <!-- begin-user-doc -->
+	 * Modifica la descripcion
 	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Descripcion</em>' attribute.
 	 * @see #getDescripcion()

@@ -1,5 +1,7 @@
 /**
- */
+ * @author Jose Antonio de Benito Suarez
+ * Clase enumerador de los datos que se pueden implementar en ella podemos 
+ *  */
 package granja;
 
 import java.util.Arrays;

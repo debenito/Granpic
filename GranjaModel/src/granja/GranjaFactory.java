@@ -1,5 +1,8 @@
 /**
- */
+ * @author Jose Antonio de Benito Suarez
+ * Clase encargada de llamar a distintas factorias las cueales se encarga de la creacion de 
+ * los objetos
+ *  */
 package granja;
 
 import org.eclipse.emf.ecore.EFactory;

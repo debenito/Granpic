@@ -1,5 +1,7 @@
 /**
- */
+ * @author Jose Antonio de Benito Suarez
+ * Interface para la creacion de numeros 
+ *  */
 package granja;
 
 import org.eclipse.emf.ecore.EObject;
@@ -29,6 +31,7 @@ public interface numero extends EObject {
 	 * If the meaning of the '<em>Id Numero</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
+	 * Metodo que devuelve el numero introducido
 	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Id Numero</em>' attribute.
 	 * @see #setIdNumero(String)
@@ -41,6 +44,7 @@ public interface numero extends EObject {
 	/**
 	 * Sets the value of the '{@link granja.numero#getIdNumero <em>Id Numero</em>}' attribute.
 	 * <!-- begin-user-doc -->
+	 *  Metodo que modifica el numero 
 	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Id Numero</em>' attribute.
 	 * @see #getIdNumero()
@@ -56,6 +60,7 @@ public interface numero extends EObject {
 	 * If the meaning of the '<em>Datos</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
+	 *  Metodo que devuelve el tipo de dato introducido
 	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Datos</em>' attribute.
 	 * @see granja.Datos
@@ -69,6 +74,7 @@ public interface numero extends EObject {
 	/**
 	 * Sets the value of the '{@link granja.numero#getDatos <em>Datos</em>}' attribute.
 	 * <!-- begin-user-doc -->
+	 *  Metodo que modifica el tipo de dato introducido
 	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Datos</em>' attribute.
 	 * @see granja.Datos

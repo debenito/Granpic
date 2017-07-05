@@ -1,5 +1,7 @@
 /**
- */
+ * @author Jose Antonio de Benito Suarez
+ * Interface para la creacion de un login para la centralita 
+ *  */
 package granja;
 
 import org.eclipse.emf.ecore.EObject;
@@ -29,6 +31,7 @@ public interface login extends EObject {
 	 * If the meaning of the '<em>Usuario</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
+	 * Metodo que devuelve el usuario introducido
 	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Usuario</em>' attribute.
 	 * @see #setUsuario(String)
@@ -41,6 +44,7 @@ public interface login extends EObject {
 	/**
 	 * Sets the value of the '{@link granja.login#getUsuario <em>Usuario</em>}' attribute.
 	 * <!-- begin-user-doc -->
+	 * Metodo que modifica el usuario introducido
 	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Usuario</em>' attribute.
 	 * @see #getUsuario()
@@ -55,6 +59,7 @@ public interface login extends EObject {
 	 * If the meaning of the '<em>Contrasena</em>' attribute isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
+	 * Metodo que devuelve la contraseña introducida
 	 * <!-- end-user-doc -->
 	 * @return the value of the '<em>Contrasena</em>' attribute.
 	 * @see #setContrasena(String)
@@ -67,6 +72,7 @@ public interface login extends EObject {
 	/**
 	 * Sets the value of the '{@link granja.login#getContrasena <em>Contrasena</em>}' attribute.
 	 * <!-- begin-user-doc -->
+	  * Metodo que modifica la contraseña 
 	 * <!-- end-user-doc -->
 	 * @param value the new value of the '<em>Contrasena</em>' attribute.
 	 * @see #getContrasena()

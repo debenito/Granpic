@@ -1,5 +1,8 @@
 /**
- */
+ * @author Jose Antonio de Benito Suarez
+ * Clase enumerador de las acciones que se pueden implementar en los dispositivos
+ *  */
+
 package granja;
 
 import java.util.Arrays;

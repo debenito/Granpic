@@ -1,5 +1,9 @@
 /**
- */
+ * @author Jose Antonio de Benito Suarez
+ * Clase que implementa la interface login y en la que se realizaran las operaciones 
+ * necesarias para el funcionamiento del programa. Esta clase es de creacion de SIRIUS
+ * los objetos
+ *  */
 package granja.impl;
 
 import granja.GranjaPackage;
